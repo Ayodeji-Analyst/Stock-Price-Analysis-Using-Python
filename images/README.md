@@ -1,1 +1,4 @@
-
+closing_price_trend.jpeg
+trading_volume_trend.jpeg
+moving_average_analysis.jpeg
+daily_returns_analysis.jpeg
